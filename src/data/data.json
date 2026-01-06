@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg",
+      "title": "Oversized Blazer",
+      "price": 139.99
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/985635/pexels-photo-985635.jpeg",
+      "title": "Floral Summer Dress",
+      "price": 79.99
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+      "title": "White Sneakers",
+      "price": 94.99
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg",
+      "title": "Striped Button-Up Shirt",
+      "price": 54.99
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/1032110/pexels-photo-1032110.jpeg",
+      "title": "Black Leather Boots",
+      "price": 159.99
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg",
+      "title": "Wool Turtleneck",
+      "price": 64.99
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg",
+      "title": "High-Waisted Trousers",
+      "price": 89.99
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/5710082/pexels-photo-5710082.jpeg",
+      "title": "Athletic Joggers",
+      "price": 49.99
+    },
+    {
+      "id": 9,
+      "image": "https://images.pexels.com/photos/972995/pexels-photo-972995.jpeg",
+      "title": "Silk Blouse",
+      "price": 69.99
+    },
+    {
+      "id": 10,
+      "image": "https://images.pexels.com/photos/1639729/pexels-photo-1639729.jpeg",
+      "title": "Denim Jacket",
+      "price": 99.99
+    },
+    {
+      "id": 11,
+      "image": "https://images.pexels.com/photos/5704720/pexels-photo-5704720.jpeg",
+      "title": "Cashmere Cardigan",
+      "price": 119.99
+    },
+    {
+      "id": 12,
+      "image": "https://images.pexels.com/photos/1631181/pexels-photo-1631181.jpeg",
+      "title": "Midi Skirt",
+      "price": 59.99
+    },
+    {
+      "id": 13,
+      "image": "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg",
+      "title": "Graphic Hoodie",
+      "price": 54.99
+    },
+    {
+      "id": 14,
+      "image": "https://images.pexels.com/photos/1801164/pexels-photo-1801164.jpeg",
+      "title": "Chino Shorts",
+      "price": 44.99
+    },
+    {
+      "id": 15,
+      "image": "https://images.pexels.com/photos/8148577/pexels-photo-8148577.jpeg",
+      "title": "Knit Sweater Vest",
+      "price": 49.99
+    },
+    {
+      "id": 16,
+      "image": "https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg",
+      "title": "Crossbody Bag",
+      "price": 79.99
+    },
+    {
+      "id": 17,
+      "image": "https://images.pexels.com/photos/7679456/pexels-photo-7679456.jpeg",
+      "title": "Wide-Leg Pants",
+      "price": 84.99
+    },
+    {
+      "id": 18,
+      "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
+      "title": "Bomber Jacket",
+      "price": 129.99
+    },
+    {
+      "id": 19,
+      "image": "https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg",
+      "title": "Leather Ankle Boots",
+      "price": 149.99
+    },
+    {
+      "id": 20,
+      "image": "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg",
+      "title": "Cotton T-Shirt",
+      "price": 29.99
+    }
+  ]
+}
